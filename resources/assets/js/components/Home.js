@@ -355,9 +355,7 @@ export class Home extends React.Component {
               <StyledCardTitle><span style={{ color:"gray" }}>Hayreddin</span> <span>Tüzel</span></StyledCardTitle>
               <StyledCardText>
                   <p>I have been working in different areas of computer science since 2010. In this process, I completed my undergraduate with a first degree (Computer Engineering Department) in 2013. Since 2016, I have developed myself in web / mobile programming. </p>
-                  <p> In this process, I have been involved in the developing of many websites and web/mobile apps as a freelancer.
-Now, I am working on Salesforce Commerce Cloud for more than 2 years in Internetstores GmbH. as a certified Salesforce Commerce Cloud Developer.
-Currently, I am looking for opportunities to improve myself and my career.</p>
+                  <p> In this process, I have been involved in the developing of many websites and web/mobile apps as a freelancer. And now I am working as a Commerce Cloud Developer for more than 3 years</p>
               </StyledCardText>
               <DownloadButton><NonStyledA href="hayreddintuzelcv.pdf" download>Download Resume</NonStyledA></DownloadButton>
             </CardCol>
